@@ -1,13 +1,14 @@
+
 # Awesome Cloud Native
 
 <img align="right" src="img/logo.svg" width="20%"/>
 
 [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
-[![](img/chinese.svg)](README-zh.md) 
+[![](img/english.svg)](README.md)
 ![](https://img.shields.io/github/license/inative-io/awesome-cloud-native)
 
-A curated list for awesome cloud native platforms.
+这是一个关于云原生平台的 Awesome 列表。
 
-Not just awesome list, more like a cloud native platform type selection list, choose the cloud native platform that suits us according to our needs.
+不仅仅只是 Awesome 列表，更像是一个云原生平台选型列表，根据我们的需求选择适合我们的云原生平台。
 
-## Contents
+## 目录
