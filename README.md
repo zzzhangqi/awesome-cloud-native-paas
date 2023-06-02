@@ -1,4 +1,4 @@
-# Awesome Cloud Native
+# Awesome Cloud Native Platform
 
 <img align="right" src="img/logo.svg" width="15%"/>
 
@@ -13,3 +13,25 @@ Not just awesome list, more like a cloud native platform type selection list, ch
 <br/>
 
 ## Contents
+
+* 
+
+## Platform Lists
+
+* [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift) - Enterprise kubernetes for developers.
+* [Rancher](https://github.com/rancher/rancher) - Kubernetes management platform.
+
+* [KubeSphere](https://github.com/kubesphere/kubesphere) - Enterprise container managent platform.
+
+* [Rainbond](https://github.com/goodrain/rainbond) - Cloud native application management platform.
+* [KubeVela](https://github.com/kubevela/kubevela) - A modern software delivery and management control plane.
+
+* [Portainer](https://github.com/portainer/portainer) - Docker and Kubernetes management platform.
+
+* [Lens](https://github.com/lensapp/lens) - A desktop app that will help you visualize and control your Kubernetes cluster.
+
+* [Kuboard](https://github.com/eip-work/kuboard-press) - A microservice management console based on Kubernetes.
+
+* [Erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
+* [TKEStack](https://github.com/tkestack/tke) - Native Kubernetes container management platform supporting multi-tenant and multi-cluster.
+* [Dashboard](https://github.com/kubernetes/dashboard) - Web UI for kubernetes clusters.

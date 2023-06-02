@@ -1,5 +1,5 @@
 
-# Awesome Cloud Native
+# Awesome Cloud Native Platform
 
 <img align="right" src="img/logo.svg" width="15%"/>
 
